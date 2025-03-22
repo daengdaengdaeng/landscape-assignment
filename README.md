@@ -1,4 +1,5 @@
 # landscape-assignment
+
 # pygame template
 import math
 import pygame
